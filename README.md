@@ -1,7 +1,8 @@
+[![MasterHead](https://previews.dropbox.com/p/thumb/ABx76AZ6xXbD-c8cGH5wrcwz-fRBy0yqVi98HbswaPEi_8tKCc58-L2O5tvz31WKoD8CNX_0LKM4sDA8lkTudTTj-9hUke3SJU7UrXffPmxgcGh1NifI2e12zGE_mt4mYS2Lq9QPsl67YQ3J-zb1lY2ymWAQW9ZW5lvHHxfJe3I3MUR2ruE2TwzWqI_ROnbFYSjy4PH6HcaLzPdvPOC8Ow30wEd2x9yQrkX0HKB_H_xQJRyq6JK4G19Y2nalAGawiQi7i2ndEZEgoPmT_zUXmjO19FNCGf7vDYpZ9NUrWrWBX_cPoay-QX3DjrFtcIJ5Ce0QriIbWYdVezIhkfoyyXyw45OW9BqczK--TMk2Sajk7MIonQCj1ybPCLMD5Jk36_PE9Z0SeitXJxNecFiFV7_7eaQET5In5xPqZsMyGBPz0uZcuvtWsLKrY_9OvUvNG7A/p.gif)]()
 <h1 align="center">Hello, I am Miran Member</h1>
 <h3 align="center">Experienced software engineer with a strong background in developing and maintaining high-quality, scalable software applications. Skilled in languages such as Java, Python, and C++, with experience in full-stack development and agile methodologies. Proven ability to work collaboratively in a team environment.</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bc/98/c9/bc98c9dcc76893a46fc71f3920846a05.gif")>
 
-- 👨‍💻 All of my projects are available at [example.com](example.com)
 
 - 📫 How to reach me **miranmember11@gmail.com**
 
