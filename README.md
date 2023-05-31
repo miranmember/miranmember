@@ -1,5 +1,9 @@
 <h1 align="center">Hello, I am Miran Member</h1>
-<h3 align="center">Experienced software engineer with a strong background in developing and maintaining high-quality, scalable software applications. Skilled in languages such as Java, Python, and C++, with experience in full-stack development and agile methodologies. Proven ability to work collaboratively in a team environment.</h3>
+<h3 align="center">Recent computer science graduate with strong expertise in data structures, algorithm design, and problem-solving.
+Proficient in programming languages such as Java, Python, JavaScript, and C++, as well as various tools and
+methodologies including Git, Jira, and Agile/Scrum. Experienced in web development, database management, and AI
+technology. Adept at collaborating with teams and delivering high-quality work on time. Seeking a challenging software
+engineering position to apply skills and contribute to the development of innovative solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bc/98/c9/bc98c9dcc76893a46fc71f3920846a05.gif")>
 
 
