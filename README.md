@@ -5,7 +5,9 @@
 
 - 📫 How to reach me **miranmember11@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1x7aVWvLe8TtyhlvLAZFe_Gq9slXQdMcJ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sIxtJ67MRNIGq-EPVhRSxemHPUvFlGO5/view?usp=sharing)
+
+- 🌐 Check out my portfolio: [Website](https://miranmember.github.io/portfolio/index.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
